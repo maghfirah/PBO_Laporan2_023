@@ -1,4 +1,4 @@
-package laporan3;
+package laporan2;
 
 public class nilaiDefault {
 	static boolean bool;
